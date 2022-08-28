@@ -54,4 +54,4 @@ function bin2String(array) {
       result += String.fromCharCode(parseInt(array[i], 2));
     }
     return result;
-  }
+}

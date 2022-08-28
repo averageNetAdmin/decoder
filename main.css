@@ -1,0 +1,27 @@
+body {
+    color: #596e79;
+    background-color: #f0ece3;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: #dfd3c3;
+    color: #596e79;
+}
+
+.container {
+    margin: 10px;
+}
+
+input {
+
+    color: #596e79;
+    background-color: #dfd3c3;
+    border-color: #c7b198;
+    border-style: outset;
+    box-shadow: none;
+}
